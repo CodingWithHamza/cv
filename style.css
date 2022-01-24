@@ -1,0 +1,31 @@
+.portfolio__img {
+	background-color: black;
+}
+
+.row {
+	margin: 2rem 2rem;
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+}
+
+.column {
+	background-color: #fff;
+}
+
+.column__first {
+	width: 400px;
+	height: 100%;
+	padding: 1rem 1rem;
+}
+
+.column__first h1 {
+	align-items: center;
+}
+
+.column__second {
+	height: 100%;
+	padding: 2rem;
+}
